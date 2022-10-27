@@ -2,7 +2,7 @@
 # coding: utf-8
 
 
-#This function can be used to plot total DOS (up+down) for 2 elements from the file generated using vaspkit package. 
+#This function can be used to plot total DOS (up+down) for 2 elements from the file generated using vaspkit package using 11 - 116 commands.
 #It works with the file named "LDOS_ELEMENTS_DW.dat" and "LDOS_ELEMENTS_UP.dat".
 
 def total_dos_for_2_elements(filename_up, filename_dw):
